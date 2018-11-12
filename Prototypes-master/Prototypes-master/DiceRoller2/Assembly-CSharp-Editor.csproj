@@ -101,6 +101,11 @@
     <Compile Include="Assets\PlayMaker PUN\Editor\PlayMakerPhotonEditorUtility.cs" />
     <Compile Include="Assets\PlayMaker PUN\Editor\PlayMakerPhotonGameObjectProxyEditor.cs" />
     <Compile Include="Assets\PlayMaker PUN\Editor\PlayMakerPhotonWizard.cs" />
+    <Compile Include="Assets\PlayMaker uGui\Editor\PlayMakerUGuiCanvasRaycastFilterEventsProxyInspector.cs" />
+    <Compile Include="Assets\PlayMaker uGui\Editor\PlayMakerUGuiComponentProxyInspector.cs" />
+    <Compile Include="Assets\PlayMaker uGui\Editor\PlayMakerUGuiDragEventsProxyInspector.cs" />
+    <Compile Include="Assets\PlayMaker uGui\Editor\PlayMakerUGuiDropEventsProxyInspector.cs" />
+    <Compile Include="Assets\PlayMaker uGui\Editor\PlayMakerUGuiPointerEventsProxyInspector.cs" />
     <Compile Include="Assets\PlayMaker Utils\Components\Editor\CommentInspector.cs" />
     <Compile Include="Assets\PlayMaker Utils\Editor\PlayMakerCurrentEventDataEditor.cs" />
     <Compile Include="Assets\PlayMaker Utils\Editor\PlayMakerEditorUtils.cs" />
