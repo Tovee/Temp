@@ -64,14 +64,14 @@
     <Compile Include="Assets\Plugins\WebSocket\WebSocket.cs" />
     <None Include="Assets\Plugins\Photon3Unity3D.xml" />
     <None Include="Assets\Plugins\release_history.txt" />
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/luketovee/dev/Temp/Prototypes-master/Prototypes-master/DiceRoller2/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/luketovee/dev/Temp/Prototypes-master/Prototypes-master/DiceRoller2/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/luketovee/dev/Temp/Prototypes-master/Prototypes-master/DiceRoller2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>/Users/luketovee/dev/Temp/Prototypes-master/Prototypes-master/DiceRoller2/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>/Users/luketovee/dev/Temp/Prototypes-master/Prototypes-master/DiceRoller2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>

@@ -57,12 +57,6 @@ MonoBehaviour:
       networkSync: 0
       value: 0
     - useVariable: 1
-      name: BankedGood
-      tooltip: 
-      showInInspector: 0
-      networkSync: 1
-      value: 0
-    - useVariable: 1
       name: GoodRolled
       tooltip: 
       showInInspector: 0
@@ -74,6 +68,12 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 1
+    - useVariable: 1
+      name: SharedBank
+      tooltip: 
+      showInInspector: 0
+      networkSync: 1
+      value: 0
     boolVariables: []
     stringVariables: []
     vector2Variables: []
