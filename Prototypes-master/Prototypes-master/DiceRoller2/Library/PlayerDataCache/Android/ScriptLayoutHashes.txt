@@ -384,3 +384,5 @@ ac4015b3f9c2f9a8f87357544349e470 Assembly-CSharp.dll:.InRoomChat
 ca6d437f4d65d0de1a55281862c55db2 Assembly-CSharp.dll:HutongGames.PlayMaker.Ecosystem.Utils.PlayMakerEventProxy
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.ClickDetector
 33c9cb909c4e84224905299a893011eb Assembly-CSharp.dll:.CubeExtra
+ddcae71b3f91386237efd012a9eef2be UnityEngine.TestRunner.dll:UnityEngine.TestTools.EnumerableSetUpTearDownCommandState
+486cd95c82d8305219c352c06b776e1f UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.TestResultRendererCallback
