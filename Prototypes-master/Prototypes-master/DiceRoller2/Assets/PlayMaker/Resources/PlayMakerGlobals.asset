@@ -63,6 +63,12 @@ MonoBehaviour:
       networkSync: 0
       value: 0
     - useVariable: 1
+      name: DaysSurvived
+      tooltip: 
+      showInInspector: 0
+      networkSync: 1
+      value: 1
+    - useVariable: 1
       name: GoodRolled
       tooltip: 
       showInInspector: 0
@@ -80,8 +86,26 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 1
       value: 0
-    boolVariables: []
-    stringVariables: []
+    boolVariables:
+    - useVariable: 1
+      name: JustBanked?
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: Objective1Complete
+      tooltip: 
+      showInInspector: 0
+      networkSync: 1
+      value: 1
+    stringVariables:
+    - useVariable: 1
+      name: Time
+      tooltip: 
+      showInInspector: 0
+      networkSync: 1
+      value: 
     vector2Variables: []
     vector3Variables: []
     colorVariables: []
@@ -95,5 +119,5 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    variableCategoryIDs: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   events: []
