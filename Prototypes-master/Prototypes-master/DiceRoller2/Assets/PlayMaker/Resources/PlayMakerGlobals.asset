@@ -37,25 +37,25 @@ MonoBehaviour:
       tooltip: 
       showInInspector: 0
       networkSync: 0
-      value: 2
+      value: 0
     - useVariable: 1
       name: Acc2Bonus
       tooltip: 
       showInInspector: 0
       networkSync: 0
-      value: 3
+      value: 0
     - useVariable: 1
       name: AccGoal1
       tooltip: 
       showInInspector: 0
       networkSync: 0
-      value: 5
+      value: 10
     - useVariable: 1
       name: AccGoal2
       tooltip: 
       showInInspector: 0
       networkSync: 0
-      value: 15
+      value: 30
     - useVariable: 1
       name: BadRolled
       tooltip: 
